@@ -1,0 +1,15 @@
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\bin\Debug\net6.0\FigurasGeométricas.exe
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\bin\Debug\net6.0\FigurasGeométricas.deps.json
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\bin\Debug\net6.0\FigurasGeométricas.runtimeconfig.json
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\bin\Debug\net6.0\FigurasGeométricas.dll
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\bin\Debug\net6.0\FigurasGeométricas.pdb
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\obj\Debug\net6.0\FigurasGeométricas.csproj.AssemblyReference.cache
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\obj\Debug\net6.0\FigurasGeométricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\obj\Debug\net6.0\FigurasGeométricas.AssemblyInfoInputs.cache
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\obj\Debug\net6.0\FigurasGeométricas.AssemblyInfo.cs
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\obj\Debug\net6.0\FigurasGeométricas.csproj.CoreCompileInputs.cache
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\obj\Debug\net6.0\FigurasGeométricas.dll
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\obj\Debug\net6.0\refint\FigurasGeométricas.dll
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\obj\Debug\net6.0\FigurasGeométricas.pdb
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\obj\Debug\net6.0\FigurasGeométricas.genruntimeconfig.cache
+C:\Users\PhSou\OneDrive\Área de Trabalho\FigurasGeométricas\FigurasGeométricas\obj\Debug\net6.0\ref\FigurasGeométricas.dll
